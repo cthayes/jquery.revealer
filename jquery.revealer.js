@@ -1,3 +1,7 @@
+/* Author: Christopher Hayes
+
+*/
+
 (function( $ ) {
 	var methods = {
 		slide : function(x) {
